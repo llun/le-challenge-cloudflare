@@ -1,0 +1,25 @@
+{
+  "name": "le-challenge-cloudflare",
+  "version": "1.0.0",
+  "description": "A cloudflare strategy for node-greenlock",
+  "main": "lib/index.js",
+  "author": "Maythee Anegboonlap <null@llun.me>",
+  "license": "ISC",
+  "dependencies": {
+    "cloudflare": "^1.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llun/le-challenge-cloudflare.git"
+  },
+  "keywords": [
+    "node-greenlock",
+    "letsencrypt",
+    "cloudflare"
+  ],
+  "bugs": {
+    "url": "https://github.com/llun/le-challenge-cloudflare/issues"
+  },
+  "homepage": "https://github.com/llun/le-challenge-cloudflare#readme"
+}
