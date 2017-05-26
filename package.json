@@ -1,6 +1,6 @@
 {
   "name": "le-challenge-cloudflare",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cloudflare strategy for node-greenlock",
   "main": "lib/index.js",
   "author": "Maythee Anegboonlap <null@llun.me>",
