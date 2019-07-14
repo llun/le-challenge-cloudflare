@@ -6,7 +6,7 @@
   "author": "Maythee Anegboonlap <null@llun.me>",
   "license": "ISC",
   "dependencies": {
-    "cloudflare": "^1.1.1"
+    "cloudflare": "^2.4.1"
   },
   "devDependencies": {},
   "repository": {
